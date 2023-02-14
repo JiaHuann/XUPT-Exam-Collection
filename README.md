@@ -30,3 +30,4 @@
 >
 >- 感谢 [@ZHDI-1](https://github.com/ZHDI-1) 提供了 readme文件
 >- 感谢 [@JiaHuann](https://github.com/JiaHuann) 提供了 2021-2022年 数据结构 大学物理B 期末考试试卷
+>- 感谢 [@StudyingLover](https://github.com/StudyingLover) 提供了 2020-2021年 2021-2022年 高等数学A1期末考试试卷
