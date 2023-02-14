@@ -28,5 +28,5 @@
 
 ## 致谢
 >
->- 感谢 ZHDI-1 提供了readme文件
->- 感谢 jiahuan 提供了 2021-2022年数据结构期末考试试卷
+>- 感谢 [@ZHDI-1](https://github.com/ZHDI-1)提供了readme文件
+>- 感谢 [@JiaHuann](https://github.com/JiaHuann) 提供了 2021-2022年数据结构期末考试试卷
