@@ -35,4 +35,4 @@
 >- 感谢 [@纸鹿Zhilu](https://github.com/L33Z22L11) 更新了部分高等数学试卷和整理repo内容，并挂上[友链](https://cooo.site)
 >- 感谢 [@Daz-3ux](https://github.com/Daz-3ux) 更新了部分概率论与数理统计试卷
 >- 感谢 [@slnll](https://github.com/slnll) 更新了部分毛概试卷
->- 感谢 [@lys122519](https://github.com/lys122519) 更新了部分OS 计组 编译原理 微机原理试卷
+>- 感谢 [@Tamaxii](https://github.com/lys122519) 更新了部分OS 计组 编译原理 微机原理试卷
