@@ -36,3 +36,4 @@
 >- 感谢 [@Daz-3ux](https://github.com/Daz-3ux) 更新了部分概率论与数理统计试卷
 >- 感谢 [@slnll](https://github.com/slnll) 更新了部分毛概试卷
 >- 感谢 [@Tamaxii](https://github.com/lys122519) 更新了部分OS 计组 编译原理 微机原理试卷
+>- 感谢 [@XUPTLiYipeng](https://github.com/XUPTLiYipeng) 更新了部分verilog,大物，微机，操作系统，数据库，数据结构，概率论，计组试卷
