@@ -26,5 +26,5 @@ jobs:
             git config user.name "Jiahuan-bot"
             git config user.email "cheayuki13@gmail.com"
             git add README.md
-            git commit -m "[salute]Thanks for pr from ${{ github.event.head_commit.author.name }} "
+            git commit -m "[salute]Thanks for pr from @${{ github.event.head_commit.author.name }} "
             git push
