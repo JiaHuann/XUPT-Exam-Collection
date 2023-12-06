@@ -37,16 +37,5 @@
 >- 感谢 [@slnll](https://github.com/slnll) 更新了部分毛概试卷
 >- 感谢 [@Tamaxii](https://github.com/lys122519) 更新了部分OS 计组 编译原理 微机原理试卷
 >- 感谢 [@XUPTLiYipeng](https://github.com/XUPTLiYipeng) 更新了部分verilog,大物，微机，操作系统，数据库，数据结构，概率论，计组试卷
-
->- 感谢:
-Author: JiaHuann
-Email: cheayuki13@gmail.com 
-
->- 感谢:
-Author: JiaHuann
-Email: cheayuki13@gmail.com 
-
->- 感谢:
-Author: JiaHuann
-Email: cheayuki13@gmail.com 
+>- 感谢 [@WaterBucket0819](https://github.com/WaterBucket0819) 更新线性代数相关试卷
 
