@@ -39,3 +39,7 @@
 >- 感谢 [@XUPTLiYipeng](https://github.com/XUPTLiYipeng) 更新了部分verilog,大物，微机，操作系统，数据库，数据结构，概率论，计组试卷
 >- 感谢 [@WaterBucket0819](https://github.com/WaterBucket0819) 更新线性代数相关试卷
 
+>- 感谢:
+Author: WaterBucket0819
+Email: 1415193001@qq.com 
+
