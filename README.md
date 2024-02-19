@@ -41,8 +41,4 @@ t t t
 > - 感谢 [@WaterBucket0819](https://github.com/WaterBucket0819) 新增高数
 > - 感谢 [@无心厌](https://github.com/Syhaun) 概率论与数理统计
 > - 感谢 [@Guiltysxul](https://github.com/Guiltysxul) 密码学
->- 感谢:
-Author: JiaHuann
-Email: cheayuki13@gmail.com 
-
-> - 感谢 [@JiaHuann](https://github.com/JiaHuann) 
+> - 感谢 [@yegetables](https://github.com/yegetables) 大物试卷
