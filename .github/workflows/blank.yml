@@ -1,27 +1,30 @@
 name: Thanks!
 
 on:
-  pull_request:
-    types:
-      - closed
+    push:
+        branches: [main]
+    pull_request:
+        branches: [main]
+    workflow_dispatch:
 
 jobs:
-  update-readme:
-    if: github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
+    update-readme:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@main
+        steps:
+        - name: Checkout Repository
+          uses: actions/checkout@main
 
-      - name: Update README
-        run: |
-          echo "> - 感谢 [@${{ github.event.head_commit.author.name }}](https://github.com/${{ github.actor }}) ${{ github.event.pull_request.title }}" >> README.md
+        - name: Update README
+          run: |
+            echo ">- 感谢:" >> README.md
+            echo "Author: ${{ github.event.head_commit.author.name }}" >> README.md
+            echo -e "Email: ${{ github.event.head_commit.author.email }} \n" >> README.md
 
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "Jiahuan-bot"
-          git config user.email "cheayuki13@gmail.com"
-          git add README.md
-          git commit -m "[salute]Thanks for PR from @${{ github.actor }}"
-          git push
+        - name: Commit and Push Changes
+          run: |
+            git config user.name "Jiahuan-bot"
+            git config user.email "cheayuki13@gmail.com"
+            git add README.md
+            git commit -m "[salute]Thanks for pr from @${{ github.event.head_commit.author.name }} "
+            git push
