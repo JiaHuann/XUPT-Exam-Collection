@@ -17,9 +17,7 @@ jobs:
 
         - name: Update README
           run: |
-            echo ">- 感谢:" >> README.md
-            echo "Author: ${{ github.event.head_commit.author.name }}" >> README.md
-            echo -e "Email: ${{ github.event.head_commit.author.email }} \n" >> README.md
+            echo "> - 感谢 [@${{ github.event.head_commit.author.name }}](https://github.com/${{ github.event.head_commit.author.name }}) ${{ github.event.pull_request.title }}" >> README.md
 
         - name: Commit and Push Changes
           run: |
