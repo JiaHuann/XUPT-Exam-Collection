@@ -44,6 +44,6 @@ t t t
 > - 感谢 [@yegetables](https://github.com/yegetables) 大物试卷
 > - 感谢 [@WaterBucket0819](https://github.com/WaterBucket0819) 
 > - 感谢 [@邓长宇](https://github.com/邓长宇) 
-> - 感谢 [@狗不李](https://github.com/狗不李) 
+> - 感谢 [@g0ubu1i](https://github.com/g0ubu1i) 
 > - 感谢 [@邓长宇](https://github.com/邓长宇) 
-> - 感谢 [@狗不李](https://github.com/狗不李) 
+> - 感谢 [@g0ubu1i](https://github.com/g0ubu1i)  
