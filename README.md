@@ -1,6 +1,7 @@
 # 西安邮电大学考试试卷库
 
 欢迎来到西安邮电大学考试试卷库！该库存储了XUPT多个课程的历年考试试卷，目的是为学生提供一个宝贵的资源，帮助他们准备即将到来的考试。
+
 非常欢迎和感谢各位积极提供资源！
 
 ## 如何使用
@@ -53,4 +54,4 @@
 > * 感谢 [@g0ubu1i](https://github.com/g0ubu1i)
 > * 感谢 [@wdcww](https://github.com/wdcww)
 > * 感谢 [@FSchorner](https://github.com/FSchorner)
-> - 感谢 [@bifangzi](https://github.com/bifangzi) 
+> * 感谢 [@bifangzi](https://github.com/bifangzi)
